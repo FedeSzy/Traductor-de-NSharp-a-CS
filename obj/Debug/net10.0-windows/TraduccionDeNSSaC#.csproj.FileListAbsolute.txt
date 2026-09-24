@@ -1,0 +1,33 @@
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\bin\Debug\net10.0-windows\TraduccionDeNSSaC#.exe
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\bin\Debug\net10.0-windows\TraduccionDeNSSaC#.deps.json
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\bin\Debug\net10.0-windows\TraduccionDeNSSaC#.runtimeconfig.json
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\bin\Debug\net10.0-windows\TraduccionDeNSSaC#.dll
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\bin\Debug\net10.0-windows\TraduccionDeNSSaC#.pdb
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\TraduccionDeNSSaC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\TraduccionDeNSSaC#.AssemblyInfoInputs.cache
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\TraduccionDeNSSaC#.AssemblyInfo.cs
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\TraduccionDeNSSaC#.csproj.CoreCompileInputs.cache
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\TraduccionDeNSSaC#.dll
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\refint\TraduccionDeNSSaC#.dll
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\TraduccionDeNSSaC#.pdb
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\TraduccionDeNSSaC#.genruntimeconfig.cache
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\ref\TraduccionDeNSSaC#.dll
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\Traducci.E0450572.Up2Date
+C:\Users\fszym\OneDrive\Documentos\GitHub\NSharp\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\TraduccionDeNSSaC#.csproj.AssemblyReference.cache
+C:\Users\fszym\OneDrive\Documentos\GitHub\NSharp\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\TraduccionDeNSSaC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fszym\OneDrive\Documentos\GitHub\NSharp\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\TraduccionDeNSSaC#.AssemblyInfoInputs.cache
+C:\Users\fszym\OneDrive\Documentos\GitHub\NSharp\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\TraduccionDeNSSaC#.AssemblyInfo.cs
+C:\Users\fszym\OneDrive\Documentos\GitHub\NSharp\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\TraduccionDeNSSaC#.csproj.CoreCompileInputs.cache
+C:\Users\fszym\OneDrive\Documentos\GitHub\NSharp\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\TraduccionDeNSSaC#.sourcelink.json
+C:\Users\fszym\OneDrive\Documentos\GitHub\NSharp\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\TraduccionDeNSSaC#.dll
+C:\Users\fszym\OneDrive\Documentos\GitHub\NSharp\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\refint\TraduccionDeNSSaC#.dll
+C:\Users\fszym\OneDrive\Documentos\GitHub\NSharp\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\TraduccionDeNSSaC#.pdb
+C:\Users\fszym\OneDrive\Documentos\GitHub\NSharp\TraduccionDeNSSaC#\bin\Debug\net10.0-windows\TraduccionDeNSSaC#.exe
+C:\Users\fszym\OneDrive\Documentos\GitHub\NSharp\TraduccionDeNSSaC#\bin\Debug\net10.0-windows\TraduccionDeNSSaC#.deps.json
+C:\Users\fszym\OneDrive\Documentos\GitHub\NSharp\TraduccionDeNSSaC#\bin\Debug\net10.0-windows\TraduccionDeNSSaC#.runtimeconfig.json
+C:\Users\fszym\OneDrive\Documentos\GitHub\NSharp\TraduccionDeNSSaC#\bin\Debug\net10.0-windows\TraduccionDeNSSaC#.dll
+C:\Users\fszym\OneDrive\Documentos\GitHub\NSharp\TraduccionDeNSSaC#\bin\Debug\net10.0-windows\TraduccionDeNSSaC#.pdb
+C:\Users\fszym\OneDrive\Documentos\GitHub\NSharp\TraduccionDeNSSaC#\bin\Debug\net10.0-windows\HtmlAgilityPack.dll
+C:\Users\fszym\OneDrive\Documentos\GitHub\NSharp\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\Traducci.E0450572.Up2Date
+C:\Users\fszym\OneDrive\Documentos\GitHub\NSharp\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\TraduccionDeNSSaC#.genruntimeconfig.cache
+C:\Users\fszym\OneDrive\Documentos\GitHub\NSharp\TraduccionDeNSSaC#\obj\Debug\net10.0-windows\ref\TraduccionDeNSSaC#.dll

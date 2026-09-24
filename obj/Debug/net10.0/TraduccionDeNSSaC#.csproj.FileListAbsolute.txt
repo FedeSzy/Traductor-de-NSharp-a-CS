@@ -1,0 +1,15 @@
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\bin\Debug\net10.0\TraduccionDeNSSaC#.exe
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\bin\Debug\net10.0\TraduccionDeNSSaC#.deps.json
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\bin\Debug\net10.0\TraduccionDeNSSaC#.runtimeconfig.json
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\bin\Debug\net10.0\TraduccionDeNSSaC#.dll
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\bin\Debug\net10.0\TraduccionDeNSSaC#.pdb
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0\TraduccionDeNSSaC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0\TraduccionDeNSSaC#.AssemblyInfoInputs.cache
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0\TraduccionDeNSSaC#.AssemblyInfo.cs
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0\TraduccionDeNSSaC#.csproj.CoreCompileInputs.cache
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0\TraduccionDeNSSaC#.dll
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0\refint\TraduccionDeNSSaC#.dll
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0\TraduccionDeNSSaC#.pdb
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0\TraduccionDeNSSaC#.genruntimeconfig.cache
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0\ref\TraduccionDeNSSaC#.dll
+C:\Users\fszym\OneDrive\Documentos\Visual Studio\TraduccionDeNSSaC#\obj\Debug\net10.0\Traducci.E0450572.Up2Date
